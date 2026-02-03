@@ -24,7 +24,7 @@
 | Run your first container | [Beginner Practice](#7-hands-on-practice) |
 | The 5 Pillars of Docker | [Core Ecosystem](#9-docker-core-ecosystem--the-5-pillars) |
 | Deploy & push to Docker Hub | [Flask + Registry](#10-hands-on-practice--deploy--push-to-registry) |
-| Interview Q&A (all 18) | [Interview Prep](#8-interview-prep--questions--answers) |
+| Interview Q&A  | [Interview Prep](#8-interview-prep--questions--answers) |
 
 > 💡 Use **Ctrl + F** to search anything on this page. Each section has a **[↑ Back to top](#-docker-basics--from-zero-to-production)** link at the bottom.
 
